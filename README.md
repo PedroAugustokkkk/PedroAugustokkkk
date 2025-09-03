@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Pedro Augusto
 
-🎓 Estudante de **Engenharia de Software** (3º semestre)  
-🧊 Técnico em **Refrigeração e Climatização** pelo IFBA  
+🎓 Estudante de **Engenharia de Software** (4º semestre)  
+🧊 Técnico pelo IFBA  
 📊 Atualmente: **Jovem Aprendiz em Dados**  
 💻 Apaixonado por **Data Science, Engenharia de Dados e Desenvolvimento de Software**
 
@@ -50,4 +50,4 @@
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodepedro@gmail.com)
