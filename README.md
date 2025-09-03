@@ -29,17 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroAugusto&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🌍 Sobre mim
 - 🚀 Buscando minha primeira experiência em TI como **estagiário** ou **dev júnior**  
 - 🤝 Gosto de trabalhar em equipe e compartilhar conhecimento  
