@@ -38,5 +38,5 @@
 ---
 
 ## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([seu-linkedin](https://www.linkedin.com/in/pedro-magalh%C3%A3es-841b0b2b0/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodepedro@gmail.com)
